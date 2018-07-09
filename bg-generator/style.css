@@ -1,0 +1,48 @@
+body {
+	font: 'railway', sans-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5cm;
+	top: 15%;
+	background: linear-gradient(to right, red, yellow)
+
+}
+
+h1 {
+	font: 600 3.5em 'railway', sans-serif;
+}
+
+h3 {
+	font: 900 1em 'railway', sans-serif;
+	text-transform: none;	
+	letter-spacing: 0.01em;
+}
+
+/*The raondom color generator button*/
+.button {
+    background-color: rgb(58, 117, 239); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  	margin-top: 20px;
+  	cursor: pointer;
+  	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  	outline: none;
+
+}
+
+.button:hover{
+	background-color: rgb(0, 105, 215);
+}
+
+.button:active {
+  background-color: rgb(0, 105, 215);
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
