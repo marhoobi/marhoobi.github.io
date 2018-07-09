@@ -1,16 +1,27 @@
 body {
-	font: 'railway', sans-serif;
-	color: rgba(0,0,0,.5);
+
 	text-align: center;
-	text-transform: uppercase;
-	letter-spacing: .5cm;
 	top: 15%;
 	background: linear-gradient(to right, red, yellow)
 
 }
 
 h1 {
-	font: 600 3.5em 'railway', sans-serif;
+  font: 600 3.5em 'railway', sans-serif;
+  color: rgba(0,0,0,.5);
+  text-transform: uppercase;
+  letter-spacing: .5cm;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font: 200  'railway', sans-serif;
+  color: rgba(0,0,0,.5);
+  text-transform: uppercase;
+  letter-spacing: .5cm;
+  margin-top: 50px;
+
 }
 
 h3 {
