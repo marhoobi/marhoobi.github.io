@@ -7,25 +7,25 @@ body {
 }
 
 h1 {
-  font: 600 2.25em 'railway', sans-serif;
+  font: 600 2em 'railway', sans-serif;
   color: rgba(0,0,0,.5);
   text-transform: uppercase;
-  letter-spacing: .5cm;
+  letter-spacing: .3cm;
   margin-top: 50px;
   margin-bottom: 50px;
 }
 
 h2 {
-  font: 200 2em 'railway', sans-serif;
+  font: 300 2em 'railway', sans-serif;
   color: rgba(0,0,0,.5);
   text-transform: uppercase;
-  letter-spacing: .5cm;
+  letter-spacing: .2cm;
   margin-top: 50px;
 
 }
 
 h3 {
-	font: 600 1em 'railway', sans-serif;
+	font: 400 1em 'railway', sans-serif;
 	text-transform: none;	
 	letter-spacing: 0.01em;
 }
